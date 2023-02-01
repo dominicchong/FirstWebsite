@@ -1,2 +1,2 @@
-# gdscUM-cloud-23
-A repository for the materials of the GDSC of Universiti Malaya Cloud Workshop 2023
+# GDSC UM Cloud Website Demo
+This repository contains the materials needed for the website + cloud development workshop of GDSC UM.
